@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FF72C&center=verdadeiro&vCenter=verdadeiro&width=700&height=200&lines=Welcome+to+my+portfolio!!+%F0%9F%92%9A%E2%9C%85;My+name+is+Yuri+Dias.+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Knowleadge+Read%3A++%F0%9F%93%97;Analytic+data;Front-end+web+development;Cyber+security;I+am+interested+in+other+areas+focused+on+software+technology)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FF72C&center=verdadeiro&vCenter=verdadeiro&width=700&height=200&lines=Welcome+to+my+portfolio!!+%F0%9F%92%9A%E2%9C%85;My+name+is+Yuri+Dias.+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Knowleadge+Read%3A++%F0%9F%93%97;Analytic+data;Front-end+web+development;Cyber+security;I+am+interested+in+other+areas+focused+on+software+technology)
 
 <!--
 **Yuri-DDS/Yuri-DDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
